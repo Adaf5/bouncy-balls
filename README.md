@@ -1,4 +1,4 @@
-# Bouncing Balls
+# Bouncy Balls!
 
 A simple SDL3 bouncing balls exercise.
 
